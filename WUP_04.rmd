@@ -83,3 +83,5 @@ The only two conditions where the test score and degree are statistically differ
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+  
+We observed the problem and figured out that we had to use a Numerical~Categorical helper file. We had five different categories, having ten different t-test results. We observed that we had two statistically different t-test results in our report, the high school-graduate and LT high school-graduate. 
